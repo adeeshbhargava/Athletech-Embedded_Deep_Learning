@@ -52,7 +52,7 @@ https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693
 
 # Mentors
 
-![mentors](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/5ae46833-e721-4026-a3c6-7f10f7b9203b)
+![mentors_2](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/53398dde-587a-4c2c-986b-becf7deaaec1)
 
 1) Prof. Ziad Youssfi (https://www.ece.cmu.edu/directory/bios/Ziad%20Youssfi.html)
 2) Prof. Priya Narasimhan (https://www.ece.cmu.edu/directory/bios/narasimhan-priya.html) 
