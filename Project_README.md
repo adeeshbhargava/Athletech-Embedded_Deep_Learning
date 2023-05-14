@@ -57,7 +57,7 @@ https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693
 1) Prof. Ziad Youssfi (https://www.ece.cmu.edu/directory/bios/Ziad%20Youssfi.html)
 2) Prof. Priya Narasimhan (https://www.ece.cmu.edu/directory/bios/narasimhan-priya.html) 
 
-# Existing Dusty Repo for DEEP LEARNING TASKS ON JETSON NANO
+# Jetson Inference Repo By Dustin Franklin
 
 <img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
 
