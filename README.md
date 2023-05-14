@@ -15,7 +15,7 @@ Device interaction for the system:
 ![hardware_setup](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/ffcf98dc-0ca9-4fa4-bdde-b8ca63cab8d9)
 
 # Software Setup
-1) Dusty's Docker as cited below
+1) Dusty's Docker as cited below with customizations in `run.sh`
 3) Edge Impulse for training embedded DL models (https://www.edgeimpulse.com/)
 
 # Embedded System Pipeline:
@@ -28,10 +28,10 @@ https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693
 
 # Run Instructions:
 1) Connect Jetson Nano with webcam and arduino
-1) git clone 
-2) cd 'Athletech-Embedded_Deep_Learning'
-3) run command './dockr/run.sh' to start docker
-4) cd 'EDL' and './setup.sh'
+1) git clone 'https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning.git'
+2) cd `Athletech-Embedded_Deep_Learning`
+3) run command `./dockr/run.sh` to start docker
+4) cd `EDL` and `./setup.sh`
 
 # Live Demos EDL Assignments:
 Gesture Recognition Assignment (CMU ECE 18848: Introduction to Embedded Deep Learning, Assignment 3)
