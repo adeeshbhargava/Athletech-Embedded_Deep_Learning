@@ -18,7 +18,10 @@ Device interaction for the system:
 1) Dusty's Docker as cited below
 3) Edge Impulse for training embedded DL models (https://www.edgeimpulse.com/)
 
-#Live Demo Final Presentation: 
+# Embedded System Pipeline:
+![blockdiagram](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/1fd9ce8e-89c2-4c4c-8ce9-5e816a5508f3)
+
+# Live Demo Final Presentation: 
 
 Squats Anamoly detection (CMU ECE 18848: Introduction to Embedded Deep Learning, Final Demo - Sensor Fusion) 
 https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/fc8243f7-7d69-4bbd-ad50-0ec708146683
