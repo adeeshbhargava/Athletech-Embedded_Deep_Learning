@@ -1,3 +1,59 @@
+## Athletech- Embedded Deep Learning
+
+Abstract:
+The goal of our project is to use cutting-edge computer vision techniques in combination with embedded devices to help people improve their exercise form while also prioritizing their health and safety. While modern computer vision algorithms are able to detect a person's pose with impressive accuracy, they often lack the ability to assess depth or provide comprehensive feedback from a single angle. To address this limitation and create a more robust system, we've incorporated anomaly detection using embedded devices that are worn by the user during their workout. These devices monitor rotation angles and motion acceleration to ensure that we can provide accurate feedback and help users optimize their form, while also minimizing the risk of injury. By combining data from multiple sources, we aim to create a powerful tool that can assist people in achieving their fitness goals with confidence and peace of mind. 
+
+To demonstrate the effectiveness of our approach, we have chosen squats as the primary exercise to focus on. Squats are a fundamental exercise that targets multiple muscle groups, making it an excellent choice for our project. However, performing squats incorrectly can lead to serious injuries, making it a high-risk exercise for beginners and experienced individuals alike. Through our project, we hope to show the potential of this technology to support users in achieving their fitness goals while promoting safe and effective exercise practices.
+Device interaction for the system:
+
+# Hardware Setup:
+1) Jetson Nano Developer Kit (https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+2) Arduino Nano 33 BLE Sense (https://store.arduino.cc/products/arduino-nano-33-ble)  
+3) USB 2.0 A-Male to Micro B Cable, 10 feet (Amazon)
+4) Logitech C270 HD Webcam, 720p (Amazon)
+
+![hardware_setup](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/ffcf98dc-0ca9-4fa4-bdde-b8ca63cab8d9)
+
+# Software Setup
+1) Dusty's Docker as cited below
+3) Edge Impulse for training embedded DL models (https://www.edgeimpulse.com/)
+
+#Live Demo Final Presentation: 
+
+Squats Anamoly detection (CMU ECE 18848: Introduction to Embedded Deep Learning, Final Demo - Sensor Fusion) 
+https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/fc8243f7-7d69-4bbd-ad50-0ec708146683
+
+# Run Instructions:
+1) Connect Jetson Nano with webcam and arduino
+1) git clone 
+2) cd 'Athletech-Embedded_Deep_Learning'
+3) run command './dockr/run.sh' to start docker
+4) cd 'EDL' and './setup.sh'
+
+# Live Demos EDL Assignments:
+Gesture Recognition Assignment (CMU ECE 18848: Introduction to Embedded Deep Learning, Assignment 3)
+https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/6c6bd01c-2989-4d09-ad31-0549f8109842
+
+Speech Recognition Assignment (CMU ECE 18848: Introduction to Embedded Deep Learning, Assignment 4)
+https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/4109afef-f06c-497e-91a3-bdb56e49da24
+
+
+# Collaborators
+Adeesh Bhargava (https://www.linkedin.com/in/adeesh-bhargava/)
+Rohan Paranjape (https://www.linkedin.com/in/rohan-paranjape/)
+Varun Jain (https://www.linkedin.com/in/varunjain3/)
+
+![Adeesh](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/d14726eb-6e19-4bd9-8a40-1cae3d4a5181) ![rohan](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/f2626830-4148-411f-a533-b9c69c730721) ![varun](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/4ab94beb-194e-4e2b-bd25-fd4ebd335774)
+
+# Mentors
+
+Ziad Youssfi (https://www.ece.cmu.edu/directory/bios/Ziad%20Youssfi.html)
+Priya Narasimhan (https://www.ece.cmu.edu/directory/bios/narasimhan-priya.html) 
+
+![ziad](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/30cf9705-f3b0-411f-9b9f-8fa25d5be836) ![Priya](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/acf14cd7-0286-44b9-ae72-0dc384ae43f7)
+
+# Existing Dusty Repo for DEEP LEARNING TASKS ON JETSON NANO
+
 <img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
 
 # Deploying Deep Learning
