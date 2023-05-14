@@ -43,20 +43,19 @@ https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693
 
 # Collaborators
 
-Adeesh Bhargava (https://www.linkedin.com/in/adeesh-bhargava/)
-Rohan Paranjape (https://www.linkedin.com/in/rohan-paranjape/)
-Varun Jain (https://www.linkedin.com/in/varunjain3/)
+![collaborators](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/fa22c5be-26f3-483b-80fa-f905cc9d8642)
 
-![Adeesh](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/d14726eb-6e19-4bd9-8a40-1cae3d4a5181 "Adeesh" =20%x) 
-![rohan](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/f2626830-4148-411f-a533-b9c69c730721 "Rohan" =20%x) 
-![varun](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/4ab94beb-194e-4e2b-bd25-fd4ebd335774 "Varun" =20%x)
+1) Adeesh Bhargava (https://www.linkedin.com/in/adeesh-bhargava/)
+2) Rohan Paranjape (https://www.linkedin.com/in/rohan-paranjape/)
+3) Varun Jain (https://www.linkedin.com/in/varunjain3/)
+
 
 # Mentors
 
-Ziad Youssfi (https://www.ece.cmu.edu/directory/bios/Ziad%20Youssfi.html)
-Priya Narasimhan (https://www.ece.cmu.edu/directory/bios/narasimhan-priya.html) 
+![mentors](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/5ae46833-e721-4026-a3c6-7f10f7b9203b)
 
-![ziad](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/30cf9705-f3b0-411f-9b9f-8fa25d5be836 "Prof. Ziad" =20%x ) ![Priya](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/acf14cd7-0286-44b9-ae72-0dc384ae43f7 "Prof. Priya" =20%x )
+1) Prof. Ziad Youssfi (https://www.ece.cmu.edu/directory/bios/Ziad%20Youssfi.html)
+2) Prof. Priya Narasimhan (https://www.ece.cmu.edu/directory/bios/narasimhan-priya.html) 
 
 # Existing Dusty Repo for DEEP LEARNING TASKS ON JETSON NANO
 
