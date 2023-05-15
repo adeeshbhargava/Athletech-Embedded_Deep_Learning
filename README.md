@@ -43,7 +43,7 @@ https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693
 
 # Collaborators
 
-![collaborators](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/fa22c5be-26f3-483b-80fa-f905cc9d8642)
+![collaborators](https://github.com/adeeshbhargava/Athletech-Embedded_Deep_Learning/assets/116693172/1263f5c0-ce12-4715-809f-07d445358a35)
 
 1) Adeesh Bhargava (https://www.linkedin.com/in/adeesh-bhargava/)
 2) Rohan Paranjape (https://www.linkedin.com/in/rohan-paranjape/)
